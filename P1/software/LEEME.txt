@@ -1,0 +1,5 @@
+Este fichero contiene todas las funciones implementadas y el programa principal.
+
+Al tratarse de un fichero de python también se ejecuta este.
+
+Para ejecutarlo, basta con ejecutarlo con python.
